@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "agentedialog-ilqx",
+  "private_key_id": "21dd53b58ac12492b1b16e3c2925b0a38a795488",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDOpebzJhGXmkHe\nrGc63B+lcq+/IGM7BIhSqRLNoXTVcbBIcUnySeCAIIZOKEJxX23KiVwnSbe2FsLM\n0DkYlH8sS5gEtjt9Q7WpaXPxtQyXZ/W+n6TeIkVKbMKR+dXr4OtG4UMDx0NZjpQH\nkcXs1o0Rp/4G63xwnhXbuUYbxyGQQ3dJ4TTKe0eVPpLqFnf8VvrZuThH66+hJAvY\nYATbsVP/DRhE4zbk+A/xK7jWTbNd5ULmm+V7tYMk9jD1UESd8es8fChwgMb+Bedl\nnem/ZQ6j7i+0F7SvrxgTS+vuNkchJFacXS15v/qc76rbVLR3SNGT8u7NaBfzZU0c\nKcArYN9VAgMBAAECggEAInlkYEOFU06Rdxm5ZgUjhWku3xqC221r5ahdoe7xzAr5\nnvhBXxmKia2DYmYOgZXrPcrxE//VFVxSNrN1Fv/tAGGDFKQnJARn+cGFLXloBpk6\nEslUypcaiqo+wnYUxVNiRNKfKLH1LytdUC72P0bixWOKejKOccY5vMx5oPg1Rfji\nYmW1Z9wvF2TtByGOIbGHpe7gIEhk5hv7Z4NppI4zf0M6m13QOiCwvx/fQinaEuuW\nPxXzkwEXtqyVErH5nu75AADi5A2DgPO16WgoPKK/aPYkVDmowRiSD6YXKdLN2+rv\nlwOALRzUVIY6qb6nuA/yCxhTTO+0q9x7ThdWHdLbiQKBgQD42+IFWT97IU0tPTSx\nOD2Au6QzuCy5J/2lST4ZlGbxQEeYp2aa4bBvO3e/BxoQdUZru11M8EEcAOXykolP\nUL5ZrYu4aWBBp5PSXfEFTcjcJldPaAFau90KEgS6IqtcCJjlAAt1+eMrzz+YG624\niYZWCZNQtvlblWSuHE76FEm13QKBgQDUk/A3VlztBuTXwb4aidP2T3+eQ6u2KJUZ\nhMUWXksdv5pvlGRX+ILLScCKZR/JaHArvrrTRSdW8vqkwrffJb7LbDq6u/Y8/JkV\nLG9cWBydXNMxF9fhkiZVKFAaNmibAxP/sWDzFOdOCwECDHOGaRrmeZsQd/1/zx8k\n7jJOIeKj2QKBgQCmHRAYBeTr6eS8R9i+Ww4iuh33L/8acOlMxUEgjgDRFNk1urgw\ntmmxNf7Oko0BY2boTp8O1mh/qtHTQ6FIQlttPPzA0gYgjR2NFIvnwG5NFYK+TGxr\nBm+bYz+oh6/etRZp9cewrmbHPYXzoLYrMhFrqOSewiRcz7HuzpKhN52kOQKBgQCa\nkm/rbQro90hTcndvCKVtxuS/CenD7MJt6dL9rtbj7Ly5QaetJ/DDLP+qIln4s85M\noMVsdi5i1Q9X2pak1edkN3CE88PbGLmfYc4f0ZoM+sA+RF4fkYv6A/Qq+0EY5iYW\nmL4sQxjl8K5s9OzT4X1D9UzBrt5PnyXATsuZcJ5CEQKBgQCLSmK8a8PbmdsVcH/U\nnLPNmmXSuOwKie2o0Vi/owJAVY9pbT+KwjKPq5kQ2XQl9WywnuG0xnaCO9aI8dhm\np1FOGFXuqIOki738Z/tkhQT5qKYgtSlC0ZpgiQ+WQNmfJA4JK4wiunPoD293Q6VP\napfHV/g0b/rnnYSWVvQd5qq9Kw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "angel-martin@agentedialog-ilqx.iam.gserviceaccount.com",
+  "client_id": "115660952547407201128",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/angel-martin%40agentedialog-ilqx.iam.gserviceaccount.com"
+}
